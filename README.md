@@ -7,7 +7,7 @@ This repository provides Arabic extensions that have been removed from Tachiyomi
 1. Update `Tachiyomi` to the latest version.
 2. Go to Settings > Browse > Extension repos > Add.
 - or Go to Browse > top right corner `⋮` > Extension repos > Add.
-3. Enter the following URL and accept: (url)
+3. Enter the following URL and accept: `https://raw.githubusercontent.com/MouadALLAOUI/tachiyomi-ar-ext/main/index.min.json`
 4. Go to the extension management screen, refresh it, and you can now download the removed extensions.
 5. After installing an extension, you need to approve it by tapping on the 'Trust' button.
   
