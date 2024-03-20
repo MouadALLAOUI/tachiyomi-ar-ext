@@ -16,3 +16,5 @@ This repository provides Arabic extensions that have been removed from Tachiyomi
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+> You may obtain a copy of the License at: [choosealicense.com](https://choosealicense.com/licenses/mit/#)
